@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "CYM",
+  "base_artist": "Billyrrom",
+  "createdAt": "2026-01-12T11:09:59.667779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cym Rhondda",
+      "artist": "Katherine Jenkins",
+      "has_synced": true,
+      "path": "select/01_Cym_Rhondda_Katherine_Jenkins.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CYM",
+      "artist": "Billyrrom",
+      "has_synced": false,
+      "path": "select/02_CYM_Billyrrom.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CYM",
+      "artist": "Billyrrom",
+      "has_synced": false,
+      "path": "select/pl_01_CYM_Billyrrom.txt"
+    }
+  ]
+}
